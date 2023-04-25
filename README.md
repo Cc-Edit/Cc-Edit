@@ -21,17 +21,13 @@ Here are some ideas to get you started:
 
 
 关于我:
-- 🔭 兴趣方向依然是低代码， 接下来准备做一套完整的低代码工具. 有同类型公司拜托帮忙内推哈😋
+- 🔭 兴趣方向依然是低代码，接下来准备再做一套完整的低代码工具. 有同类型公司拜托帮忙内推哈😋
 - 📫 ccedit@126.com
 - 🌎 Beijing, China
-- 🛠️ Vue2, Vue3, React, WebGl, Nodejs, JAVA, 
-&hide=css,html,kotlin
+- 🛠️ Vue2, Vue3, React, WebGl, Nodejs, JAVA, css, html, 
 
 
-
-
-
-<a href="https://github.com/jiusanzhou">
+<a href="https://github.com/Cc-Edit">
   <img src="https://github-readme-stats.vercel.app/api?username=Cc-Edit&show_icons=true" alt="Readme Stat" height="180em" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cc-Edit&layout=compact" alt="Top Lang" height="180em" />
 </a>

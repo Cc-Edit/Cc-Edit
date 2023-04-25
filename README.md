@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 
 
 关于我:
-- 🔭 兴趣方向依然是低代码，接下来准备再做一套完整的低代码工具. 有同类型公司拜托帮忙内推哈😋
+- 💼 兴趣方向是低代码或者WebGl，有同类型公司拜托帮忙内推哈😋 
+- 🔭 接下来准备再做一套完整的低代码工具，入一下大前端的坑💪🏻 
 - 📫 ccedit@126.com
-- 🌎 Beijing, China
 - 🛠️ Vue2, Vue3, React, WebGl, Nodejs, JAVA, css, html, 
 
 

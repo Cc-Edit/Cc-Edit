@@ -26,11 +26,11 @@ Here are some ideas to get you started:
 - 📫 ccedit@126.com
 - 🛠️ Vue2, Vue3, React, WebGl, Nodejs, JAVA, css, html, 
 
+|                                     WeChat                                      |                                                打赏 :confetti_ball:                                                 | 
+|:-------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------:| 
+| ![wechat.png](https://github.com/Cc-Edit/CcClip/blob/master/public/user/wechat.png) | ![img.png](https://github.com/Cc-Edit/CcClip/blob/master/public/user/img.png) |
 
 <a href="https://github.com/Cc-Edit">
   <img src="https://github-readme-stats.vercel.app/api?username=Cc-Edit&show_icons=true" alt="Readme Stat" height="180em" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cc-Edit&layout=compact" alt="Top Lang" height="180em" />
 </a>
-|                                     WeChat                                      |                                                打赏 :confetti_ball:                                                 | 
-|:-------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------:| 
-| ![wechat.png](https://github.com/Cc-Edit/CcClip/blob/master/public/user/wechat.png) | ![img.png](https://github.com/Cc-Edit/CcClip/blob/master/public/user/img.png) |

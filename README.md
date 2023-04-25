@@ -1,8 +1,7 @@
-<div align="center">
 
-### Hi there 👋
-
-</div>
+|                                     WeChat                                      |                                                打赏 :confetti_ball:                                                 | 
+|:-------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------:| 
+| ![wechat.png](https://github.com/Cc-Edit/CcClip/blob/master/public/user/wechat.png) | ![img.png](https://github.com/Cc-Edit/CcClip/blob/master/public/user/img.png) |
 
 <!--
 **adminV/adminV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,10 +24,6 @@ Here are some ideas to get you started:
 - 🔭 接下来准备再做一套完整的低代码工具，入一下大前端的坑💪🏻 
 - 📫 ccedit@126.com
 - 🛠️ Vue2, Vue3, React, WebGl, Nodejs, JAVA, css, html, 
-
-|                                     WeChat                                      |                                                打赏 :confetti_ball:                                                 | 
-|:-------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------:| 
-| ![wechat.png](https://github.com/Cc-Edit/CcClip/blob/master/public/user/wechat.png) | ![img.png](https://github.com/Cc-Edit/CcClip/blob/master/public/user/img.png) |
 
 <a href="https://github.com/Cc-Edit">
   <img src="https://github-readme-stats.vercel.app/api?username=Cc-Edit&show_icons=true" alt="Readme Stat" height="180em" />

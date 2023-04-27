@@ -8,8 +8,8 @@
 </p>
 
 <p align="left">
-  <img alt="就是你个城" src="https://github.com/Cc-Edit/Cc-Edit/blob/main/src/sponsor/jsngc.png" width="60" style="border-radius: 12px; border: 1px solid #d8dee4;">
-  <img alt="daigang666" src="https://github.com/Cc-Edit/Cc-Edit/blob/main/src/sponsor/daigang666.jpg" width="60" style="border-radius: 12px; border: 1px solid #d8dee4;">
+  <img alt="就是你个城" src="https://github.com/Cc-Edit/Cc-Edit/blob/main/src/sponsor/jsngc.png" width="40" style="border-radius: 12px; border: 1px solid #d8dee4;">
+  <img alt="daigang666" src="https://github.com/Cc-Edit/Cc-Edit/blob/main/src/sponsor/daigang666.jpg" width="40" style="border-radius: 12px; border: 1px solid #d8dee4;">
 </p>
 
 <!--

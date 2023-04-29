@@ -23,7 +23,8 @@ Here are some ideas to get you started:
 - 💼 兴趣方向是低代码或者WebGl，有同类型公司拜托帮忙内推哈😋 
 - 🔭 接下来准备再做一套完整的低代码工具，入一下大前端的坑💪🏻 
 - 📫 ccedit@126.com
-- 🛠️ Vue2, Vue3, React, WebGl, Nodejs, JAVA, css, html, 
+- 📢 承接各类软件项目开发需求：毕设、二开、移动端、小程序、桌面端、网页端
+- 🛠️ Vue2, Vue3, React, WebGl, Nodejs, JAVA, css, html
 
 <!-- <a href="https://github.com/Cc-Edit">
   <img src="https://github-readme-stats.vercel.app/api?username=Cc-Edit&show_icons=true" alt="Readme Stat" height="180em" />

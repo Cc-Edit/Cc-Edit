@@ -34,4 +34,5 @@ Here are some ideas to get you started:
 <p align="left">
   <img alt="就是你个城" src="https://github.com/Cc-Edit/Cc-Edit/blob/main/src/sponsor/jsngc.png" width="30" style="border-radius: 12px; border: 1px solid #d8dee4;">
   <img alt="daigang666" src="https://github.com/Cc-Edit/Cc-Edit/blob/main/src/sponsor/daigang666.jpg" width="30" style="border-radius: 12px; border: 1px solid #d8dee4;">
+  <img alt="dh" src="https://github.com/Cc-Edit/Cc-Edit/blob/main/src/sponsor/dh.png" width="30" style="border-radius: 12px; border: 1px solid #d8dee4;">
 </p>

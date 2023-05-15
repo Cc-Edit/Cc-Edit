@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 
 关于我:
-- 🎁 恰饭：打赏任意金额可以加入赞助商行列呦，并且有自己整理的学习文档相送 👉[webNote](https://github.com/Cc-Edit/webNote)
+- 🎁 恰饭：打赏任意金额可以加入支持者行列啦，并且有自己整理的学习文档相送 👉[webNote](https://github.com/Cc-Edit/webNote)
 - 💼 兴趣方向是低代码或者WebGl，有同类型公司拜托帮忙内推哈😋 
 - 🔭 接下来准备再做一套完整的低代码工具，入一下大前端的坑💪🏻 
 - 📫 ccedit@126.com
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 - 🛠️ Vue2, Vue3, React, WebGl, Nodejs, JAVA, css, html
 
 <p align="center">
-  <h2 align="center">🎉 Sponsor</h2>
+  <h2 align="center">🎉 Backers</h2>
 </p>
 
 <p align="left">

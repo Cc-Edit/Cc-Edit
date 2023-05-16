@@ -28,10 +28,6 @@ Here are some ideas to get you started:
 - 🛠️ Vue2, Vue3, React, WebGl, Nodejs, JAVA, css, html
 
 <p align="center">
-  <h2 align="center">🎉 Backers</h2>
-</p>
-
-<p align="center">
   <h2 align="center">🎉 Backers 🎉</h2>
 </p>
 

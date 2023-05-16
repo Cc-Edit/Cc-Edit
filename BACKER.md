@@ -1,6 +1,6 @@
-<p align="center">
+<div align="center">
   <h2 align="center">🎉 Backers 🎉</h2>
-</p>
+</div>
 
 <p align="left">
   <a href="https://github.com/Cc-Edit" target="_blank" rel="noopener noreferrer">

@@ -1,7 +1,7 @@
 
-|                                     学习讨论小组🍻                                      |                                                 打赏（赠送学习资料：[webNote](https://github.com/Cc-Edit/webNote)） :confetti_ball:                                                 | 
-|:-------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------:| 
-| ![wechat.png](https://github.com/Cc-Edit/Cc-Edit/blob/main/src/WeChatGroup.png) | ![img.png](https://github.com/Cc-Edit/Cc-Edit/blob/main/src/img.png) |
+|                                                        学习讨论小组🍻                                                         |                                                打赏（赠送学习资料：[webNote](https://github.com/Cc-Edit/webNote)） :confetti_ball:                                                 | 
+|:-----------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------:| 
+| ![wechat.png](https://static.sisjs.com/images/WeChatGroup.png) |                                                           ![img.png](https://static.sisjs.com/images/img.png)                                                           |
 
 <!--
 **adminV/adminV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -32,10 +32,10 @@ Here are some ideas to get you started:
 </p>
 
 <p align="left">
-  <img alt="就是你个城" src="https://github.com/Cc-Edit/Cc-Edit/blob/main/src/sponsor/jsngc.png" width="30" style="border-radius: 12px; border: 1px solid #d8dee4;">
-  <img alt="daigang666" src="https://github.com/Cc-Edit/Cc-Edit/blob/main/src/sponsor/daigang666.jpg" width="30" style="border-radius: 12px; border: 1px solid #d8dee4;">
-  <img alt="dh" src="https://github.com/Cc-Edit/Cc-Edit/blob/main/src/sponsor/dh.png" width="30" style="border-radius: 12px; border: 1px solid #d8dee4;">
-  <img alt="ty" src="https://github.com/Cc-Edit/Cc-Edit/blob/main/src/sponsor/ty.png" width="30" style="border-radius: 12px; border: 1px solid #d8dee4;">
-  <img alt="洒脱~" src="https://github.com/Cc-Edit/Cc-Edit/blob/main/src/sponsor/st.png" width="30" style="border-radius: 12px; border: 1px solid #d8dee4;">
-  <img alt="心有灵犀" src="https://github.com/Cc-Edit/Cc-Edit/blob/main/src/sponsor/xylx.png" width="30" style="border-radius: 12px; border: 1px solid #d8dee4;">
+  <img alt="就是你个城" src="https://static.sisjs.com/images/sponsor/jsngc.png" width="30" style="border-radius: 12px; border: 1px solid #d8dee4;">
+  <img alt="daigang666" src="https://static.sisjs.com/images/sponsor/daigang666.jpg" width="30" style="border-radius: 12px; border: 1px solid #d8dee4;">
+  <img alt="dh" src="https://static.sisjs.com/images/sponsor/dh.png" width="30" style="border-radius: 12px; border: 1px solid #d8dee4;">
+  <img alt="ty" src="https://static.sisjs.com/images/sponsor/ty.png" width="30" style="border-radius: 12px; border: 1px solid #d8dee4;">
+  <img alt="洒脱~" src="https://static.sisjs.com/images/sponsor/st.png" width="30" style="border-radius: 12px; border: 1px solid #d8dee4;">
+  <img alt="心有灵犀" src="https://static.sisjs.com/images/sponsor/xylx.png" width="30" style="border-radius: 12px; border: 1px solid #d8dee4;">
 </p>

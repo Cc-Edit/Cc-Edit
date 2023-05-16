@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 
 关于我:
-- 🎁 恰饭：打赏任意金额可以加入支持者行列啦，并且有自己整理的学习文档相送 👉[webNote](https://github.com/Cc-Edit/webNote)
+- 🎁 恰饭：打赏任意金额可以加入支持者行列啦，并且有自己整理的学习文档相送 👉[webNote](https://github.com/Cc-Edit/webNote) (打赏时备注留下邮箱地址即可)
 - 💼 兴趣方向是低代码或者WebGl，有同类型公司拜托帮忙内推哈😋 
 - 🔭 接下来准备再做一套完整的低代码工具，入一下大前端的坑💪🏻 
 - 📫 ccedit@126.com
@@ -36,4 +36,6 @@ Here are some ideas to get you started:
   <img alt="daigang666" src="https://github.com/Cc-Edit/Cc-Edit/blob/main/src/sponsor/daigang666.jpg" width="30" style="border-radius: 12px; border: 1px solid #d8dee4;">
   <img alt="dh" src="https://github.com/Cc-Edit/Cc-Edit/blob/main/src/sponsor/dh.png" width="30" style="border-radius: 12px; border: 1px solid #d8dee4;">
   <img alt="ty" src="https://github.com/Cc-Edit/Cc-Edit/blob/main/src/sponsor/ty.png" width="30" style="border-radius: 12px; border: 1px solid #d8dee4;">
+  <img alt="洒脱~" src="https://github.com/Cc-Edit/Cc-Edit/blob/main/src/sponsor/st.png" width="30" style="border-radius: 12px; border: 1px solid #d8dee4;">
+  <img alt="心有灵犀" src="https://github.com/Cc-Edit/Cc-Edit/blob/main/src/sponsor/xylx.png" width="30" style="border-radius: 12px; border: 1px solid #d8dee4;">
 </p>

@@ -21,37 +21,9 @@ Here are some ideas to get you started:
 
 关于我:
 - 🎁 恰饭：打赏任意金额可以加入支持者行列啦，并且有自己整理的学习文档相送 👉[webNote](https://github.com/Cc-Edit/webNote) (打赏时备注留下邮箱地址即可)
-- 💼 兴趣方向是低代码或者WebGl，有同类型公司拜托帮忙内推哈😋 
-- 🔭 接下来准备再做一套完整的低代码工具，入一下大前端的坑💪🏻 
+- 💼 兴趣方向是低代码或者WebGl，有同类型公司拜托帮忙内推哈😋
+- 🔭 接下来准备再做一套完整的低代码工具，入一下大前端的坑💪🏻
 - 📫 ccedit@126.com
 - 📢 承接各类软件项目开发需求：前端、后端、移动端、小程序、桌面端、网页端、运维、部署、UI设计、二开
 - 🛠️ Vue2, Vue3, React, WebGl, Nodejs, JAVA, css, html
 
-<p align="center">
-  <h2 align="center">🎉 Backers</h2>
-</p>
-
-<p align="center">
-  <h2 align="center">🎉 Backers 🎉</h2>
-</p>
-
-<p align="left">
-  <a href="https://github.com/Cc-Edit" target="_blank" rel="noopener noreferrer">
-    <img alt="就是你个城" src="https://static.sisjs.com/images/sponsor/jsngc.png" width="30">
-  </a>
-  <a href="https://github.com/Cc-Edit" target="_blank" rel="noopener noreferrer">
-    <img alt="daigang666" src="https://static.sisjs.com/images/sponsor/daigang666.jpg" width="30">
-  </a>
-  <a href="https://github.com/Cc-Edit" target="_blank" rel="noopener noreferrer">
-     <img alt="dh" src="https://static.sisjs.com/images/sponsor/dh.png" width="30">
-  </a>
-  <a href="https://github.com/Cc-Edit" target="_blank" rel="noopener noreferrer">
-    <img alt="ty" src="https://static.sisjs.com/images/sponsor/ty.png" width="30">
-  </a>
-  <a href="https://github.com/Cc-Edit" target="_blank" rel="noopener noreferrer">
-    <img alt="洒脱~" src="https://static.sisjs.com/images/sponsor/st.png" width="30">
-  </a>
-  <a href="https://github.com/Cc-Edit" target="_blank" rel="noopener noreferrer">
-     <img alt="心有灵犀" src="https://static.sisjs.com/images/sponsor/xylx.png" width="30">
-  </a>
-</p>

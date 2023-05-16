@@ -21,4 +21,8 @@
   <a href="https://github.com/Cc-Edit" target="_blank" rel="noopener noreferrer">
      <img alt="心有灵犀" src="https://static.sisjs.com/images/sponsor/xylx.png" width="30">
   </a>
+
+  <a href='https://github.com/Cc-Edit' title='zee' target='_blank' rel='noopener noreferrer'>
+    <img alt='zee' src='https://static.sisjs.com/images/sponsor/backers-1684259743.png' width='30'>
+  </a>
 </p>

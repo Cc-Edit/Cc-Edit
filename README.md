@@ -27,9 +27,9 @@ Here are some ideas to get you started:
 - 📢 承接各类软件项目开发需求：前端、后端、移动端、小程序、桌面端、网页端、运维、部署、UI设计、二开
 - 🛠️ Vue2, Vue3, React, WebGl, Nodejs, JAVA, css, html
 
-<p align="center">
+<div align="center">
   <h2 align="center">🎉 Backers 🎉</h2>
-</p>
+</div>
 
 <p align="left">
   <a href="https://github.com/Cc-Edit" target="_blank" rel="noopener noreferrer">

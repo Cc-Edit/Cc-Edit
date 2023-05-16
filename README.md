@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - 💼 兴趣方向是低代码或者WebGl，有同类型公司拜托帮忙内推哈😋 
 - 🔭 接下来准备再做一套完整的低代码工具，入一下大前端的坑💪🏻 
 - 📫 ccedit@126.com
-- 📢 承接各类软件项目开发需求：毕设、二开、移动端、小程序、桌面端、网页端
+- 📢 承接各类软件项目开发需求：前端、后端、移动端、小程序、桌面端、网页端、运维、部署、UI设计、二开
 - 🛠️ Vue2, Vue3, React, WebGl, Nodejs, JAVA, css, html
 
 <p align="center">

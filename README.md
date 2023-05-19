@@ -72,4 +72,8 @@ Here are some ideas to get you started:
   <a href='https://github.com/Cc-Edit' title='#' target='_blank' rel='noopener noreferrer'>
     <img alt='#' src='https://static.sisjs.com/images/sponsor/backers-1684464450.png' width='30'>
   </a>
+
+  <a href='https://github.com/Cc-Edit' title='unknow' target='_blank' rel='noopener noreferrer'>
+    <img alt='unknow' src='https://static.sisjs.com/images/sponsor/backers-1684464554.png' width='30'>
+  </a>
 </p>

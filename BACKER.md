@@ -25,4 +25,8 @@
   <a href='https://github.com/Cc-Edit' title='zee' target='_blank' rel='noopener noreferrer'>
     <img alt='zee' src='https://static.sisjs.com/images/sponsor/backers-1684259743.png' width='30'>
   </a>
+
+  <a href='https://github.com/Cc-Edit' title=''#'' target='_blank' rel='noopener noreferrer'>
+    <img alt=''#'' src='https://static.sisjs.com/images/sponsor/backers-1684462991.png' width='30'>
+  </a>
 </p>

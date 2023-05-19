@@ -1,7 +1,7 @@
 
 |                                                        学习讨论小组🍻                                                         |                                                打赏（赠送学习资料：[webNote](https://github.com/Cc-Edit/webNote)） :confetti_ball:                                                 | 
 |:-----------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------:| 
-| ![wechat.png](https://static.sisjs.com/images/WeChatGroup.png?v=2) |                                                           ![img.png](https://static.sisjs.com/images/img.png)                                                           |
+| ![wechat.png](https://static.sisjs.com/images/WeChatGroup.png) |                                                           ![img.png](https://static.sisjs.com/images/img.png)                                                           |
 
 <!--
 **adminV/adminV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -29,7 +29,6 @@ Here are some ideas to get you started:
 
 推荐项目💖:
 - [CcHook](https://github.com/Cc-Edit/CcHook) 🚀 个人服务器轻量级 CICD 方案（替代 jenkins）前端自动部署、前端自动化工具、消息推送、邮件发送
-
 <div align="center">
   <h2 align="center">🎉 Backers 🎉</h2>
 </div>
@@ -56,5 +55,9 @@ Here are some ideas to get you started:
 
   <a href='https://github.com/Cc-Edit' title='zee' target='_blank' rel='noopener noreferrer'>
     <img alt='zee' src='https://static.sisjs.com/images/sponsor/backers-1684259743.png' width='30'>
+  </a>
+
+  <a href='https://github.com/Cc-Edit' title=''#'' target='_blank' rel='noopener noreferrer'>
+    <img alt=''#'' src='https://static.sisjs.com/images/sponsor/backers-1684462991.png' width='30'>
   </a>
 </p>

@@ -68,4 +68,8 @@ Here are some ideas to get you started:
   <a href='https://github.com/Cc-Edit' title='1' target='_blank' rel='noopener noreferrer'>
     <img alt='1' src='https://static.sisjs.com/images/sponsor/backers-1684464388.png' width='30'>
   </a>
+
+  <a href='https://github.com/Cc-Edit' title='#' target='_blank' rel='noopener noreferrer'>
+    <img alt='#' src='https://static.sisjs.com/images/sponsor/backers-1684464450.png' width='30'>
+  </a>
 </p>

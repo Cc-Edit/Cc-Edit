@@ -60,4 +60,8 @@ Here are some ideas to get you started:
   <a href='https://github.com/Cc-Edit' title='#' target='_blank' rel='noopener noreferrer'>
     <img alt='#' src='https://static.sisjs.com/images/sponsor/0001.png' width='30'>
   </a>
+
+  <a href='https://github.com/Cc-Edit' title='Amotion' target='_blank' rel='noopener noreferrer'>
+    <img alt='Amotion' src='https://static.sisjs.com/images/sponsor/backers-1684743443.png' width='30'>
+  </a>
 </p>

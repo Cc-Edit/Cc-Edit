@@ -1,7 +1,7 @@
 
 |                                                        学习讨论小组🍻                                                         |                                                打赏（赠送学习资料：[webNote](https://github.com/Cc-Edit/webNote)） :confetti_ball:                                                 | 
 |:-----------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------:| 
-| ![wechat.png](https://static.sisjs.com/images/WeChatGroup.png?v=2)|                                                           ![img.png](https://static.sisjs.com/images/img.png)                                                           |
+| ![wechat.png](https://static.sisjs.com/images/WeChatGroup.png?V=2) |                                                           ![img.png](https://static.sisjs.com/images/img.png)                                                           |
 
 <!--
 **adminV/adminV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -67,5 +67,9 @@ Here are some ideas to get you started:
 
   <a href='https://github.com/Cc-Edit' title='hty' target='_blank' rel='noopener noreferrer'>
     <img alt='hty' src='https://static.sisjs.com/images/sponsor/backers-1684826242.png' width='30'>
+  </a>
+
+  <a href='https://github.com/Cc-Edit' title='YI' target='_blank' rel='noopener noreferrer'>
+    <img alt='YI' src='https://static.sisjs.com/images/sponsor/backers-1684979450.png' width='30'>
   </a>
 </p>

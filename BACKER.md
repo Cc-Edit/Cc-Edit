@@ -37,4 +37,8 @@
   <a href='https://github.com/Cc-Edit' title='hty' target='_blank' rel='noopener noreferrer'>
     <img alt='hty' src='https://static.sisjs.com/images/sponsor/backers-1684826242.png' width='30'>
   </a>
+
+  <a href='https://github.com/Cc-Edit' title='YI' target='_blank' rel='noopener noreferrer'>
+    <img alt='YI' src='https://static.sisjs.com/images/sponsor/backers-1684979450.png' width='30'>
+  </a>
 </p>

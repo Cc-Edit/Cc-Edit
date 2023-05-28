@@ -1,7 +1,7 @@
 
 |                                                        学习讨论小组🍻                                                         |                                                打赏（赠送学习资料：[webNote](https://github.com/Cc-Edit/webNote)） :confetti_ball:                                                 | 
 |:-----------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------:| 
-| ![wechat.png](https://static.sisjs.com/images/WeChatGroup.png?V=2) |                                                           ![img.png](https://static.sisjs.com/images/img.png)                                                           |
+| ![wechat.png](https://static.sisjs.com/images/WeChatGroup.png?V=3) |                                                           ![img.png](https://static.sisjs.com/images/img.png)                                                           |
 
 <!--
 **adminV/adminV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

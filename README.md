@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 推荐项目💖:
 - [CcHook](https://github.com/Cc-Edit/CcHook) 🚀 个人服务器轻量级 CICD 方案（替代 jenkins）前端自动部署、前端自动化工具、消息推送、邮件发送
 <div align="center">
-  <h2 align="center">🎉 Backers 🎉</h2>
+    <h2 align="center">🎉 赞助者 🎉</h2>
 </div>
 
 <p align="left">

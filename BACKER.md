@@ -1,5 +1,5 @@
 <div align="center">
-  <h2 align="center">🎉 Backers 🎉</h2>
+  <h2 align="center">🎉 赞助者 🎉</h2>
 </div>
 
 <p align="left">
@@ -28,6 +28,18 @@
 
   <a href='https://github.com/Cc-Edit' title='#' target='_blank' rel='noopener noreferrer'>
     <img alt='#' src='https://static.sisjs.com/images/sponsor/0001.png' width='30'>
+  </a>
+
+  <a href='https://github.com/Cc-Edit' title='Amotion' target='_blank' rel='noopener noreferrer'>
+    <img alt='Amotion' src='https://static.sisjs.com/images/sponsor/backers-1684743443.png' width='30'>
+  </a>
+
+  <a href='https://github.com/Cc-Edit' title='hty' target='_blank' rel='noopener noreferrer'>
+    <img alt='hty' src='https://static.sisjs.com/images/sponsor/backers-1684826242.png' width='30'>
+  </a>
+
+  <a href='https://github.com/Cc-Edit' title='YI' target='_blank' rel='noopener noreferrer'>
+    <img alt='YI' src='https://static.sisjs.com/images/sponsor/backers-1684979450.png' width='30'>
   </a>
   
   <a href='https://github.com/Cc-Edit' title='伎俩' target='_blank' rel='noopener noreferrer'>

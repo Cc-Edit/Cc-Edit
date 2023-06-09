@@ -47,14 +47,14 @@
   </a>
   
   <a href='https://github.com/Cc-Edit' title='伎俩' target='_blank' rel='noopener noreferrer'>
-    <img alt='伎俩' src='https://github.com/Cc-Edit/Cc-Edit/blob/main/stash/head.png' width='30'>
+    <img alt='伎俩' src='https://github.com/Cc-Edit/Cc-Edit/blob/main/public/sponsor/head.png' width='30'>
   </a>
 
   <a href='https://github.com/Cc-Edit' title='臭四四' target='_blank' rel='noopener noreferrer'>
-    <img alt='臭四四' src='https://github.com/Cc-Edit/Cc-Edit/blob/main/stash/head1.png' width='30'>
+    <img alt='臭四四' src='https://github.com/Cc-Edit/Cc-Edit/blob/main/public/sponsor/head1.png' width='30'>
   </a>
 
   <a href='https://github.com/Cc-Edit' title='youa' target='_blank' rel='noopener noreferrer'>
-    <img alt='youa' src='https://github.com/Cc-Edit/Cc-Edit/blob/main/stash/head2.png' width='30'>
+    <img alt='youa' src='https://github.com/Cc-Edit/Cc-Edit/blob/main/public/sponsor/head2.png' width='30'>
   </a>
 </p>

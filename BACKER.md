@@ -57,4 +57,8 @@
   <a href='https://github.com/Cc-Edit' title='youa' target='_blank' rel='noopener noreferrer'>
     <img alt='youa' src='https://github.com/Cc-Edit/Cc-Edit/blob/main/public/sponsor/head2.png' width='30'>
   </a>
+
+  <a href='https://github.com/Cc-Edit' title='阿俊' target='_blank' rel='noopener noreferrer'>
+    <img alt='阿俊' src='https://github.com/Cc-Edit/Cc-Edit/blob/main/public/sponsor/ajun.png' width='30'>
+  </a>
 </p>

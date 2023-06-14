@@ -95,4 +95,12 @@ Here are some ideas to get you started:
   <a href='https://github.com/Cc-Edit' title='阿俊' target='_blank' rel='noopener noreferrer'>
     <img alt='阿俊' src='https://github.com/Cc-Edit/Cc-Edit/blob/main/public/sponsor/ajun.png' width='30'>
   </a>
+
+  <a href='https://github.com/Cc-Edit' title='ableﾍ😈ﾍ' target='_blank' rel='noopener noreferrer'>
+    <img alt='ableﾍ😈ﾍ' src='https://github.com/Cc-Edit/Cc-Edit/blob/main/public/sponsor/ab.png' width='30'>
+  </a>
+
+  <a href='https://github.com/Cc-Edit' title='二 月 ²⁰²³' target='_blank' rel='noopener noreferrer'>
+    <img alt='二 月 ²⁰²³' src='https://github.com/Cc-Edit/Cc-Edit/blob/main/public/sponsor/ey.png' width='30'>
+  </a>
 </p>

@@ -69,4 +69,8 @@
   <a href='https://github.com/Cc-Edit' title='二 月 ²⁰²³' target='_blank' rel='noopener noreferrer'>
     <img alt='二 月 ²⁰²³' src='https://github.com/Cc-Edit/Cc-Edit/blob/main/public/sponsor/ey.png' width='30'>
   </a>
+
+  <a href='https://github.com/Cc-Edit' title='冰火凌云' target='_blank' rel='noopener noreferrer'>
+    <img alt='冰火凌云' src='https://github.com/Cc-Edit/Cc-Edit/blob/main/public/sponsor/bhly.png' width='30'>
+  </a>
 </p>

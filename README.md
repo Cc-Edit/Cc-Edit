@@ -107,4 +107,8 @@ Here are some ideas to get you started:
   <a href='https://github.com/Cc-Edit' title='冰火凌云' target='_blank' rel='noopener noreferrer'>
     <img alt='冰火凌云' src='https://github.com/Cc-Edit/Cc-Edit/blob/main/public/sponsor/bhly.png' width='30'>
   </a>
+
+  <a href='https://github.com/Cc-Edit' title='Exception' target='_blank' rel='noopener noreferrer'>
+    <img alt='Exception' src='https://github.com/Cc-Edit/Cc-Edit/blob/main/public/sponsor/ex.png' width='30'>
+  </a>
 </p>

@@ -111,4 +111,8 @@ Here are some ideas to get you started:
   <a href='https://github.com/Cc-Edit' title='Exception' target='_blank' rel='noopener noreferrer'>
     <img alt='Exception' src='https://github.com/Cc-Edit/Cc-Edit/blob/main/public/sponsor/ex.png' width='30'>
   </a>
+
+  <a href='https://github.com/Cc-Edit' title='没有人比我的头像还帅了吧' target='_blank' rel='noopener noreferrer'>
+    <img alt='没有人比我的头像还帅了吧' src='https://github.com/Cc-Edit/Cc-Edit/blob/main/public/sponsor/tx.png' width='30'>
+  </a>
 </p>

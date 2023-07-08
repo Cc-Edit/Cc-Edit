@@ -81,4 +81,12 @@
   <a href='https://github.com/Cc-Edit' title='没有人比我的头像还帅了吧' target='_blank' rel='noopener noreferrer'>
     <img alt='没有人比我的头像还帅了吧' src='https://github.com/Cc-Edit/Cc-Edit/blob/main/public/sponsor/tx.png' width='30'>
   </a>
+  
+  <a href='https://github.com/Cc-Edit' title='weboob' target='_blank' rel='noopener noreferrer'>
+    <img alt='weboob' src='https://github.com/Cc-Edit/Cc-Edit/blob/main/public/sponsor/weboob.png' width='30'>
+  </a>
+
+  <a href='https://github.com/Cc-Edit' title='凉豆仁。' target='_blank' rel='noopener noreferrer'>
+    <img alt='凉豆仁。' src='https://github.com/Cc-Edit/Cc-Edit/blob/main/public/sponsor/ldr.png' width='30'>
+  </a>
 </p>

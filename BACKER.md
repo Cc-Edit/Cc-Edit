@@ -89,4 +89,16 @@
   <a href='https://github.com/Cc-Edit' title='凉豆仁。' target='_blank' rel='noopener noreferrer'>
     <img alt='凉豆仁。' src='https://github.com/Cc-Edit/Cc-Edit/blob/main/public/sponsor/ldr.png' width='30'>
   </a>
+
+  <a href='https://github.com/Cc-Edit' title='日富一日' target='_blank' rel='noopener noreferrer'>
+    <img alt='日富一日' src='https://github.com/Cc-Edit/Cc-Edit/blob/main/public/sponsor/rfyr.png' width='30'>
+  </a>
+
+  <a href='https://github.com/Cc-Edit' title='Can' target='_blank' rel='noopener noreferrer'>
+    <img alt='Can' src='https://github.com/Cc-Edit/Cc-Edit/blob/main/public/sponsor/Can.png' width='30'>
+  </a>
+
+  <a href='https://github.com/Cc-Edit' title='守拙' target='_blank' rel='noopener noreferrer'>
+    <img alt='守拙' src='https://github.com/Cc-Edit/Cc-Edit/blob/main/public/sponsor/sz.png' width='30'>
+  </a>
 </p>

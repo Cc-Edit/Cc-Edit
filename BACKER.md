@@ -101,4 +101,8 @@
   <a href='https://github.com/Cc-Edit' title='守拙' target='_blank' rel='noopener noreferrer'>
     <img alt='守拙' src='https://github.com/Cc-Edit/Cc-Edit/blob/main/public/sponsor/sz.png' width='30'>
   </a>
+
+  <a href='https://github.com/Cc-Edit' title='Betty1' target='_blank' rel='noopener noreferrer'>
+    <img alt='Betty1' src='https://github.com/Cc-Edit/Cc-Edit/blob/main/public/sponsor/backers-1691046869.png' width='30'>
+  </a>
 </p>

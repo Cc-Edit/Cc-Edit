@@ -121,4 +121,8 @@
   <a href='https://github.com/Cc-Edit' title='Betty1' target='_blank' rel='noopener noreferrer'>
     <img alt='Betty1' src='https://github.com/Cc-Edit/Cc-Edit/blob/main/public/sponsor/backers-1691046869.png' width='30'>
   </a>
+
+  <a href='https://ccedit.com' title='洛' target='_blank' rel='noopener noreferrer'>
+    <img alt='洛' src='https://github.com/Cc-Edit/Cc-Edit/blob/main/public/sponsor/backers-1691049747.png' width='30'>
+  </a>
 </p>

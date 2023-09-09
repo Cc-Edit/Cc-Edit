@@ -7,6 +7,7 @@
 - 📢 承接各类软件项目开发需求：前端、后端、移动端、小程序、桌面端、网页端、运维、部署、UI设计、二开
 - 🛠️ Vue2, Vue3, React, WebGl, Nodejs, JAVA, css, html
 - 💼 兴趣方向是低代码、WebGl，有同类型公司拜托帮忙内推哈😋
+- 🔭 目前在集中精力做一套完整的低代码工具
 - 📫 ccedit@126.com
 
 支持作者🎁:
@@ -127,5 +128,9 @@
 
   <a href='https://ccedit.com' title='🍭' target='_blank' rel='noopener noreferrer'>
     <img alt='🍭' src='https://github.com/Cc-Edit/Cc-Edit/blob/main/public/sponsor/backers-1691545655.png' width='30'>
+  </a>
+
+  <a href='https://ccedit.com' title='安' target='_blank' rel='noopener noreferrer'>
+    <img alt='安' src='https://github.com/Cc-Edit/Cc-Edit/blob/main/public/sponsor/backers-1694249226.png' width='30'>
   </a>
 </p>

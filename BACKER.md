@@ -113,4 +113,8 @@
   <a href='https://ccedit.com' title='🍭' target='_blank' rel='noopener noreferrer'>
     <img alt='🍭' src='https://github.com/Cc-Edit/Cc-Edit/blob/main/public/sponsor/backers-1691545655.png' width='30'>
   </a>
+
+  <a href='https://ccedit.com' title='安' target='_blank' rel='noopener noreferrer'>
+    <img alt='安' src='https://github.com/Cc-Edit/Cc-Edit/blob/main/public/sponsor/backers-1694249226.png' width='30'>
+  </a>
 </p>

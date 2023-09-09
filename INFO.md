@@ -1,7 +1,7 @@
 
-|   学习讨论小组🍻   |   打赏（赠送学习资料：[webNote](https://github.com/Cc-Edit/webNote)） :confetti_ball:    | 
-|:------------------------------------------------------------:|:---------------------------------------------------------------------:| 
-| ![wechat.png](https://github.com/Cc-Edit/Cc-Edit/blob/main/public/WeChatGroup.png) |     ![img.png](https://github.com/Cc-Edit/Cc-Edit/blob/main/public/img.png)  |
+|   CcClip讨论小组🍻   |   CcView开发者小组🍻   |   打赏（赠送学习资料：[webNote](https://github.com/Cc-Edit/webNote)） :confetti_ball:    |
+|:------------------------------------------------------------:|:------------------------------------------------------------:|:---------------------------------------------------------------------:|
+| ![CcClip.png](https://github.com/Cc-Edit/Cc-Edit/blob/main/public/CcClip.png) | ![CcView.png](https://github.com/Cc-Edit/Cc-Edit/blob/main/public/CcView.png) |     ![img.png](https://github.com/Cc-Edit/Cc-Edit/blob/main/public/img.png)  |
 
 关于我👷🏼:
 - 📢 承接各类软件项目开发需求：前端、后端、移动端、小程序、桌面端、网页端、运维、部署、UI设计、二开

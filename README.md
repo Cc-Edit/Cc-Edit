@@ -136,4 +136,8 @@
   <a href='https://ccedit.com' title='陈加信' target='_blank' rel='noopener noreferrer'>
     <img alt='陈加信' src='https://github.com/Cc-Edit/Cc-Edit/blob/main/public/sponsor/backers-1694249272.png' width='30'>
   </a>
+
+  <a href='https://ccedit.com' title='honorsuper' target='_blank' rel='noopener noreferrer'>
+    <img alt='honorsuper' src='https://github.com/Cc-Edit/Cc-Edit/blob/main/public/sponsor/backers-1695005436.png' width='30'>
+  </a>
 </p>

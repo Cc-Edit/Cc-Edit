@@ -140,4 +140,8 @@
   <a href='https://ccedit.com' title='honorsuper' target='_blank' rel='noopener noreferrer'>
     <img alt='honorsuper' src='https://github.com/Cc-Edit/Cc-Edit/blob/main/public/sponsor/backers-1695005436.png' width='30'>
   </a>
+
+  <a href='https://ccedit.com' title='C.K.' target='_blank' rel='noopener noreferrer'>
+    <img alt='C.K.' src='https://github.com/Cc-Edit/Cc-Edit/blob/main/public/sponsor/backers-1695097418.png' width='30'>
+  </a>
 </p>

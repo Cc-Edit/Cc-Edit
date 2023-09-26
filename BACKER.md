@@ -133,4 +133,8 @@
   <a href='https://ccedit.com' title='花生' target='_blank' rel='noopener noreferrer'>
     <img alt='花生' src='https://github.com/Cc-Edit/Cc-Edit/blob/main/public/sponsor/backers-1695284868.png' width='30'>
   </a>
+
+  <a href='https://ccedit.com' title='维子' target='_blank' rel='noopener noreferrer'>
+    <img alt='维子' src='https://github.com/Cc-Edit/Cc-Edit/blob/main/public/sponsor/backers-1695723754.png' width='30'>
+  </a>
 </p>

@@ -152,4 +152,8 @@
   <a href='https://ccedit.com' title='维子' target='_blank' rel='noopener noreferrer'>
     <img alt='维子' src='https://github.com/Cc-Edit/Cc-Edit/blob/main/public/sponsor/backers-1695723754.png' width='30'>
   </a>
+
+  <a href='https://ccedit.com' title='大智' target='_blank' rel='noopener noreferrer'>
+    <img alt='大智' src='https://github.com/Cc-Edit/Cc-Edit/blob/main/public/sponsor/backers-1695777123.png' width='30'>
+  </a>
 </p>

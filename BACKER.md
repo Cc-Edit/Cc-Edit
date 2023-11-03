@@ -145,4 +145,8 @@
   <a href='https://ccedit.com' title='冻柠葡萄' target='_blank' rel='noopener noreferrer'>
     <img alt='冻柠葡萄' src='https://github.com/Cc-Edit/Cc-Edit/blob/main/public/sponsor/backers-1696081335.png' width='30'>
   </a>
+
+  <a href='https://ccedit.com' title='北海小七' target='_blank' rel='noopener noreferrer'>
+    <img alt='北海小七' src='https://github.com/Cc-Edit/Cc-Edit/blob/main/public/sponsor/backers-1696081336.png' width='30'>
+  </a>
 </p>

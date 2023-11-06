@@ -1,4 +1,4 @@
-## [【求职中 】北京公司请联系我 😊(点击查看微信👉🏻)](https://github.com/Cc-Edit/Cc-Edit/blob/main/public/wechat.png)
+## [【求职中】北京公司请联系我 😊(点击查看微信👉🏻)](https://github.com/Cc-Edit/Cc-Edit/blob/main/public/wechat.png)
 
 |   CcClip讨论小组🍻   |   CcView开发者小组🍻   |   打赏（赠送学习资料：[webNote](https://github.com/Cc-Edit/webNote)） :confetti_ball:    |
 |:------------------------------------------------------------:|:------------------------------------------------------------:|:---------------------------------------------------------------------:|
@@ -164,5 +164,9 @@
 
   <a href='https://ccedit.com' title='北海小七' target='_blank' rel='noopener noreferrer'>
     <img alt='北海小七' src='https://github.com/Cc-Edit/Cc-Edit/blob/main/public/sponsor/backers-1696081336.png' width='30'>
+  </a>
+
+  <a href='https://ccedit.com' title='jenkin_infj-a' target='_blank' rel='noopener noreferrer'>
+    <img alt='jenkin_infj-a' src='https://github.com/Cc-Edit/Cc-Edit/blob/main/public/sponsor/backers-1699253589.png' width='30'>
   </a>
 </p>

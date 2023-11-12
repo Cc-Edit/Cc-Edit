@@ -149,4 +149,12 @@
   <a href='https://ccedit.com' title='北海小七' target='_blank' rel='noopener noreferrer'>
     <img alt='北海小七' src='https://github.com/Cc-Edit/Cc-Edit/blob/main/public/sponsor/backers-1696081336.png' width='30'>
   </a>
+
+  <a href='https://ccedit.com' title='jenkin_infj-a' target='_blank' rel='noopener noreferrer'>
+    <img alt='jenkin_infj-a' src='https://github.com/Cc-Edit/Cc-Edit/blob/main/public/sponsor/backers-1699253589.png' width='30'>
+  </a>
+
+  <a href='https://ccedit.com' title='^_^' target='_blank' rel='noopener noreferrer'>
+    <img alt='^_^' src='https://github.com/Cc-Edit/Cc-Edit/blob/main/public/sponsor/backers-1699585815.png' width='30'>
+  </a>
 </p>

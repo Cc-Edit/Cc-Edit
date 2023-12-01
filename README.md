@@ -177,4 +177,8 @@
   <a href='https://ccedit.com' title='豪' target='_blank' rel='noopener noreferrer'>
     <img alt='豪' src='https://github.com/Cc-Edit/Cc-Edit/blob/main/public/sponsor/backers-1701311189.png' width='30'>
   </a>
+
+  <a href='https://ccedit.com' title='--' target='_blank' rel='noopener noreferrer'>
+    <img alt='--' src='https://github.com/Cc-Edit/Cc-Edit/blob/main/public/sponsor/backers-1701420087.png' width='30'>
+  </a>
 </p>

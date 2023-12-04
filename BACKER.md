@@ -169,4 +169,8 @@
   <a href='https://ccedit.com' title='律政先锋' target='_blank' rel='noopener noreferrer'>
     <img alt='律政先锋' src='https://github.com/Cc-Edit/Cc-Edit/blob/main/public/sponsor/backers-1701669912.png' width='30'>
   </a>
+
+  <a href='https://ccedit.com' title='中等生' target='_blank' rel='noopener noreferrer'>
+    <img alt='中等生' src='https://github.com/Cc-Edit/Cc-Edit/blob/main/public/sponsor/backers-1701685256.png' width='30'>
+  </a>
 </p>

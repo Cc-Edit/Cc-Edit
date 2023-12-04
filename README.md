@@ -14,7 +14,6 @@
 - 打赏任意金额可以加入赞助者行列啦🥰
 - 对赞助者有本人亲自整理的学习文档赠送👉 [webNote](https://github.com/Cc-Edit/webNote)
 - 打赏时备注留下邮箱地址即可, 手动发送可能会有延迟，请耐心等待~  Thanks♪(･ω･)ﾉ
-
 <div align="center">
   <h2 align="center">🎉 赞助者 🎉</h2>
 </div>
@@ -185,5 +184,9 @@
 
   <a href='https://ccedit.com' title='律政先锋' target='_blank' rel='noopener noreferrer'>
     <img alt='律政先锋' src='https://github.com/Cc-Edit/Cc-Edit/blob/main/public/sponsor/backers-1701669912.png' width='30'>
+  </a>
+
+  <a href='https://ccedit.com' title='中等生' target='_blank' rel='noopener noreferrer'>
+    <img alt='中等生' src='https://github.com/Cc-Edit/Cc-Edit/blob/main/public/sponsor/backers-1701685256.png' width='30'>
   </a>
 </p>

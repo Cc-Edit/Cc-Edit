@@ -173,4 +173,8 @@
   <a href='https://ccedit.com' title='中等生' target='_blank' rel='noopener noreferrer'>
     <img alt='中等生' src='https://github.com/Cc-Edit/Cc-Edit/blob/main/public/sponsor/backers-1701685256.png' width='30'>
   </a>
+
+  <a href='https://ccedit.com' title='道道里' target='_blank' rel='noopener noreferrer'>
+    <img alt='道道里' src='https://github.com/Cc-Edit/Cc-Edit/blob/main/public/sponsor/backers-1701757551.png' width='30'>
+  </a>
 </p>

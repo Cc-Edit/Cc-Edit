@@ -181,4 +181,8 @@
   <a href='https://ccedit.com' title='伍' target='_blank' rel='noopener noreferrer'>
     <img alt='伍' src='https://github.com/Cc-Edit/Cc-Edit/blob/main/public/sponsor/backers-1702535918.png' width='30'>
   </a>
+
+  <a href='https://ccedit.com' title='9801' target='_blank' rel='noopener noreferrer'>
+    <img alt='9801' src='https://github.com/Cc-Edit/Cc-Edit/blob/main/public/sponsor/backers-1702535958.png' width='30'>
+  </a>
 </p>

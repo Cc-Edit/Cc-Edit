@@ -1,7 +1,8 @@
 ## [【求职中】北京公司请联系我 😊(点击查看微信👉🏻)](https://github.com/Cc-Edit/Cc-Edit/blob/main/public/wechat.png)
 
+
 |   CcClip讨论小组🍻   |   Flutter 学习讨论📝   |  CcView开发者小组🎨   |   打赏（赠送学习资料：[webNote](https://github.com/Cc-Edit/webNote)） :confetti_ball:    |
-|:------------------------------------------------------------:|:------------------------------------------------------------:|:---------------------------------------------------------------------:|
+|:------------------------------:|:------------------:|:------------------:|:-----------------------------------:|
 | ![CcClip.png](https://github.com/Cc-Edit/Cc-Edit/blob/main/public/CcClip.png) | ![Flutter.png](https://github.com/Cc-Edit/Cc-Edit/blob/main/public/Flutter.png) |  ![CcView.png](https://github.com/Cc-Edit/Cc-Edit/blob/main/public/CcView.png) |     ![img.png](https://github.com/Cc-Edit/Cc-Edit/blob/main/public/img.png)  |
 
 关于我👷🏼:

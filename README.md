@@ -200,4 +200,8 @@
   <a href='https://ccedit.com' title='9801' target='_blank' rel='noopener noreferrer'>
     <img alt='9801' src='https://github.com/Cc-Edit/Cc-Edit/blob/main/public/sponsor/backers-1702535958.png' width='30'>
   </a>
+
+  <a href='https://ccedit.com' title='uuu' target='_blank' rel='noopener noreferrer'>
+    <img alt='uuu' src='https://github.com/Cc-Edit/Cc-Edit/blob/main/public/sponsor/backers-1703235983.png' width='30'>
+  </a>
 </p>

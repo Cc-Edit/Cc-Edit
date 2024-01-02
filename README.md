@@ -204,4 +204,8 @@
   <a href='https://ccedit.com' title='uuu' target='_blank' rel='noopener noreferrer'>
     <img alt='uuu' src='https://github.com/Cc-Edit/Cc-Edit/blob/main/public/sponsor/backers-1703235983.png' width='30'>
   </a>
+
+  <a href='https://ccedit.com' title='李辉' target='_blank' rel='noopener noreferrer'>
+    <img alt='李辉' src='https://github.com/Cc-Edit/Cc-Edit/blob/main/public/sponsor/backers-1704177992.png' width='30'>
+  </a>
 </p>

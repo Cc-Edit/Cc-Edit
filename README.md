@@ -212,4 +212,8 @@
   <a href='https://ccedit.com' title='龙源' target='_blank' rel='noopener noreferrer'>
     <img alt='龙源' src='https://github.com/Cc-Edit/Cc-Edit/blob/main/public/sponsor/backers-1704369766.png' width='30'>
   </a>
+
+  <a href='https://ccedit.com' title='没有答案' target='_blank' rel='noopener noreferrer'>
+    <img alt='没有答案' src='https://github.com/Cc-Edit/Cc-Edit/blob/main/public/sponsor/backers-1708680740.png' width='30'>
+  </a>
 </p>

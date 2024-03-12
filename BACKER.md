@@ -201,4 +201,8 @@
   <a href='https://ccedit.com' title='没有答案' target='_blank' rel='noopener noreferrer'>
     <img alt='没有答案' src='https://github.com/Cc-Edit/Cc-Edit/blob/main/public/sponsor/backers-1708680740.png' width='30'>
   </a>
+
+  <a href='https://ccedit.com' title='淡蓝色的烟雨云' target='_blank' rel='noopener noreferrer'>
+    <img alt='淡蓝色的烟雨云' src='https://github.com/Cc-Edit/Cc-Edit/blob/main/public/sponsor/backers-1710228311.png' width='30'>
+  </a>
 </p>

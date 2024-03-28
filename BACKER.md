@@ -205,4 +205,8 @@
   <a href='https://ccedit.com' title='淡蓝色的烟雨云' target='_blank' rel='noopener noreferrer'>
     <img alt='淡蓝色的烟雨云' src='https://github.com/Cc-Edit/Cc-Edit/blob/main/public/sponsor/backers-1710228311.png' width='30'>
   </a>
+
+  <a href='https://ccedit.com' title='残月' target='_blank' rel='noopener noreferrer'>
+    <img alt='残月' src='https://github.com/Cc-Edit/Cc-Edit/blob/main/public/sponsor/backers-1711615428.png' width='30'>
+  </a>
 </p>

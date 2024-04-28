@@ -10,8 +10,7 @@
 
 支持作者🎁:
 - 打赏任意金额可以加入赞助者行列啦 🥰
-- 对赞助者有本人亲自整理的学习文档赠送 👉 [webNote](https://github.com/Cc-Edit/webNote)
-- 打赏时备注留下邮箱地址即可, 手动发送可能会有延迟，请耐心等待~  Thanks♪(･ω･)ﾉ
+
 <div align="center">
   <h2 align="center">🎉 赞助者 🎉</h2>
 </div>

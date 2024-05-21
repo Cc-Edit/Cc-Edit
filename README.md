@@ -10,7 +10,6 @@
 
 支持作者🎁:
 - 打赏任意金额可以加入赞助者行列啦 🥰
-
 <div align="center">
   <h2 align="center">🎉 赞助者 🎉</h2>
 </div>
@@ -225,5 +224,9 @@
 
   <a href='https://ccedit.com' title='Miaow' target='_blank' rel='noopener noreferrer'>
     <img alt='Miaow' src='https://github.com/Cc-Edit/Cc-Edit/blob/main/public/sponsor/backers-1714272028.png' width='30'>
+  </a>
+
+  <a href='https://ccedit.com' title='芸姐' target='_blank' rel='noopener noreferrer'>
+    <img alt='芸姐' src='https://github.com/Cc-Edit/Cc-Edit/blob/main/public/sponsor/backers-1716275882.png' width='30'>
   </a>
 </p>

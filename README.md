@@ -226,7 +226,4 @@
     <img alt='Miaow' src='https://github.com/Cc-Edit/Cc-Edit/blob/main/public/sponsor/backers-1714272028.png' width='30'>
   </a>
 
-  <a href='https://ccedit.com' title='芸姐' target='_blank' rel='noopener noreferrer'>
-    <img alt='芸姐' src='https://github.com/Cc-Edit/Cc-Edit/blob/main/public/sponsor/backers-1716275882.png' width='30'>
-  </a>
 </p>

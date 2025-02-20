@@ -1,8 +1,4 @@
 
-|                  打赏（赠送学习资料：[webNote](https://github.com/Cc-Edit/webNote)） :confetti_ball:                  |
-|:----------------------------------------------------------------------------------------------------------:|
-| <img src="https://github.com/Cc-Edit/Cc-Edit/blob/main/public/img.png" alt="img" height="240"> |
-
 关于我👷🏼:
 - 🛠️ Vue2, Vue3, React, Flutter, Nodejs, WebGl, JAVA, Python
 - 💼 兴趣方向是 Wasm、WebGl、深度学习、图片处理、音视频处理 😋
